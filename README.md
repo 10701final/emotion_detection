@@ -4,7 +4,7 @@ Facial expression is one of the most powerful, natural, and universal signals fo
 ## Dataset
 FER2013 is our primary dataset for training and testing our models. The `Dataset` folder contains preprocessed face images. The original FER2013 dataset can be downloaded from [here](https://www.kaggle.com/msambare/fer2013). Our preprocessing uses affine transformation and illumination normalization.
 
-![](./report/emotions.png)
+![emotion](./report/emotions.png)
 ## Models
 Our models include a vanilla CNN baseline model and fine-tuned ResNet18, ResNet50, SENet50, and VGG16. All models except the baseline model are pretrained on VGGFace2. The pretrained weights are obtained from [here](https://github.com/rcmalli/keras-vggface). Our ensemble model is included in `ensemble.ipynb`.
 The pretrained weights are shared via [Google Drive](https://drive.google.com/drive/folders/1N0e_0IhzsXQUWd5LxWyLw6opMeucPn4G?usp=sharing).
