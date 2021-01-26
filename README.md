@@ -22,4 +22,4 @@ Occlusion-based saliency map of SENet50:
 ## Video
 As required by the class, we recorded a [video](https://drive.google.com/file/d/1FK9Fy23ziX9rP_OrmA6c16VkCf_t0Zga/view?usp=sharing) for presenting our work.
 ## Acknowledgement
-This project is inspired by the [awesome project](https://github.com/amilkh/cs230-fer) by Amil Khanzada *et al.* And many thanks to my super awesome teammates Zhiyi (Amelia) Kuang and Yuxin (Abbey) Pei:D
+This project is inspired by the [awesome project](https://github.com/amilkh/cs230-fer) by Amil Khanzada *et al.* And many thanks to the super awesome team:D
