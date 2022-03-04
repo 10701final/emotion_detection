@@ -20,6 +20,6 @@ Occlusion-based saliency map of SENet50:
 <img src="./results/senet50-neutral-false-sad.png" width="500"/>
 
 ## Video
-As required by the class, we recorded a [video](https://drive.google.com/file/d/1FK9Fy23ziX9rP_OrmA6c16VkCf_t0Zga/view?usp=sharing) for presenting our work.
+As required by the class, we recorded a [video](https://drive.google.com/file/d/1oDqQYsOIrzCS0BcbowbYDrDOoC0LtomL/view?usp=sharing) for presenting our work.
 ## Acknowledgement
 This project is inspired by the [awesome project](https://github.com/amilkh/cs230-fer) by Amil Khanzada *et al.* And many thanks to the super awesome team:D
